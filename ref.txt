@@ -1,0 +1,6 @@
+# Run go program
+go run file_name.go
+
+# Build and get compile code to run it faster in production
+go build file_name.go
+./file_name
