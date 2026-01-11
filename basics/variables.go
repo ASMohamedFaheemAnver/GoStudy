@@ -4,7 +4,7 @@ var PI = 3.14
 
 const CONST_PI = 3.14
 
-func main() {
+func variables() {
 	var age int = 30
 	var unAssignedInt int
 	var name string = "Alice"
