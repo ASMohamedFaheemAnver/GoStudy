@@ -5,7 +5,7 @@ import (
 	axios "net/http"
 )
 
-func main() {
+func checkImports() {
 	fmtCustom.Println("Hello, Go!")
 	resp, error := axios.Get("https://www.google.com")
 	if error != nil {
